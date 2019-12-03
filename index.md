@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "ROV field manual"
+title: "Remotely Operated Vehicles field manual"
 excerpt: ""
 image:
   feature: /banners/00_banner.jpg
