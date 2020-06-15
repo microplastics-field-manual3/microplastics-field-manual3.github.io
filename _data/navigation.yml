@@ -1,13 +1,42 @@
 # Site navigation links
-- title: "Remotely Operated Vehicle field manual home"
-  url: https://rov-manual.github.io
-  excerpt: "Authors, citation and give feedback"
-  image: /5x8/Home-blue_5x8.jpg
 - title: "Download field manual"
-  url: https://rov-field-manual.github.io/files/Chapter%2010_Remotely%20Operated%20Vehicles%20Field%20Manual%20V2.pdf
+  url: https://rov-field-manual.github.io/files/Chapter%209_Grabs%20&%20Boxcorers%20Field%20Manual%20V2.pdf
   excerpt: "Download chapter as a PDF"
   image: /5x8/download_5x8.jpg
-- title: "Field Manual Homepage"
-  url: https://www.nespmarine.edu.au/field-manuals
-  excerpt: "Back to all field manuals"
-  image: /5x8/NESP_5x8.jpg
+- title: "Platform Description"
+  url: https://rov-field-manual.github.io/platform-description
+  excerpt: ""
+  image: /5x8/platform-description_teaser.jpg
+- title: "Scope"
+  url: https://rov-field-manual.github.io/scope
+  excerpt: "Scope for the ROV field manual"
+  image: /5x8/scope_teaser.jpg
+- title: "ROVs in Marine Monitoring"
+  url: https://rov-field-manual.github.io/rovs-in-marine-monitoring
+  excerpt: ""
+  image: /5x8/marine-monitoring_teaser.jpg
+- title: "Pre-Survey Preparations"
+  url: https://rov-field-manual.github.io/pre-survey-preparations
+  excerpt: ""
+  image: /5x8/presurvey-preparations_teaser.jpg
+- title: "Field Procedures"
+  url: https://rov-field-manual.github.io/field-procedures
+  excerpt: "Onboard sample acquisition and data processing and storage"
+  image: /5x8/field-procedures_teaser.jpg
+- title: "Post-Survey Procedures"
+  url: https://rov-field-manual.github.io/post-survey-procedures
+  excerpt: "Processing and annotation of video footage, processing and annotation of downward facing still imagery, data curation and quality control, data release and analysis"
+  image: /5x8/postsurvey_teaser.jpg
+- title: "Field Manual Maintenance"
+  url: https://rov-field-manual.github.io/field-manual-maintenance
+  excerpt: "Updates and developments"
+  image: /5x8/field-manual-maintenance_teaser.jpg
+- title: "Acknowledgements"
+  url: https://rov-field-manual.github.io/acknowledgements
+  excerpt: ""
+  image: /5x8/acknowledgements_teaser.jpg
+- title: "References"
+  url: https://rov-field-manual.github.io//references
+  excerpt: "Literature cited"
+  image: /5x8/references_teaser.jpg
+
