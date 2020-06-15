@@ -18,11 +18,7 @@ ROVs are not without their limitations when visually monitoring organisms. Diffe
 A key advantage that ROVs have in a monitoring context is their ability to be dynamically controlled in ‘real time’ across a range of depths and habitats. This is because data are streamed real time which means that the vehicle can survey vast areas with constant supervision and can be easily focused on areas of interest. ROVs are the only marine imagery systems available in Australia that are able to readily collect quality imagery from highly rugose environments, including vertical rock walls, steep slopes, and overhangs. These environments are prevalent in many marine parks, along the continental slope and offshore reefs. Similar to AUVs, when equipped with acoustic positioning (e.g., ultra-short baseline, USBL), ROVs can be piloted along precisely defined transects, at a constant altitude, with the geolocation of individual still images along this path as well as forward facing stereo-video (along with other sensors if required/fitted). The geolocation of imagery and flight paths allows relatively precise repeat transects to be conducted for monitoring purposes, and also for the imagery to be used to ground-truth multibeam sonar (Ierodiaconou et al. 2011), assessing the effectiveness of  marine protected areas (Torriente et al. 2019), as well as for modelling the environmental factors driving species’ distributions (Salvati et al. 2010, García-Alegre et al. 2014, Lastras et al. 2016). Although ROVs have been shown to collect comparable reef fish assemblage data as diver-operated video and slow towed video (Shchramm et al 2019), they are uniquely suited to collect data in environments that are otherwise challenging to other sampling platforms.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](images/figures/image1.jpg "image_tooltip")
 
 
 Figure 10.1. Sample images showing the tradeoffs for different ROVs: [left]: sessile invertebrates from Hunter Marine Park from a BlueRobotics BlueROV (with a heavy kit upgrade) fitted with stereo GoPro HERO7 Black cameras, [middle] limestone outcrops along a canyon slope in the Gascoyne Marine Park from the ROV SuBastien’s situational camera, and  [right] brittlestars entwined around a black coral from the ROV SuBastien’s 4K camera.
@@ -50,28 +46,18 @@ Table 10.2. Summary of ROV classes and considerations associated with each when 
   <tr>
    <td>
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image2.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
     
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image3.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
-    
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image4.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
