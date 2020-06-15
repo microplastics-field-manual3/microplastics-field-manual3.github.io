@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Remotely Operated Vehicles"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
 page.button1.external_url:
