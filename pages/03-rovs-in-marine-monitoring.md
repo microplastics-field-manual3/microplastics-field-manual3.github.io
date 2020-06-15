@@ -173,6 +173,79 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
 </table>
 
 
+<table>
+<thead>
+  <tr>
+    <th rowspan="2"> ROV class</th>
+    <th>Class I:<br>Observation</th>
+    <th>Class II:<br>Observation (with payload option)</th>
+    <th>Class III:<br>Work</th>
+  </tr>
+  <tr>
+    <td><img src="https://lh6.googleusercontent.com/wtdNv41tQLOxPelA-EowTqwgNtoqKBKkf8fIgZDK3PD9DnBQ9w3n0Odpr2Hce5nHx8yKCjn6ukJ4mfM7U6TDAeHK83CAanwQ3AKHbhd6CgU8An07c_rFw3C4qJNt02aGk2sz9vY4" width="112" height="150"></td>
+    <td><img src="https://lh3.googleusercontent.com/sieEPR5J_SJJVnbSUGsIgW3JYzcPGyT4lTDZubMnVwRjv1hkebwjSlOCc-BSgn-PDtV1lmd9KxHsxX1V9lVvDcHrXR8gIkGCuRKTKwh2MTiA9TQFVCE3zMDrVoKQOZh9-DMkw6LS" width="160" height="99"></td>
+    <td><img src="https://lh3.googleusercontent.com/d-viOsqq0KoadoEPSAcwkihLYDekSbVOTxJr5vIeapfODFu3IB54Jq6XVOJGviqMMYkXxSp-3zGuKd8OIrtDc7C3PMzhAB2M9dRKe-IWihUGa67CYxt2wGo3VWoZCXsb8FrCvFic" width="152" height="101"></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Definition and capability</td>
+    <td>Typically &lt; 40kg in weight these vehicles are primarily intended for observation only. Fitted with inbuilt camera and lights, may be able to handle one additional sensor (such as USBL), simple grabber claws, as well as an additional stereo-video camera.</td>
+    <td>Larger vehicles than Class I, weighing ~100-150kg, are capable of basic physical sampling and observations. Capable of carrying multiple cameras and sensors as well as simple gabber claws.</td>
+    <td>Weighing &lt;~5000kg, these vehicles have a broad carrying capability and operational conditions (e.g. depth and currents). Usually used in deeper waters (i.e. off continental shelf) these are the most complex and versatile of ROVs used. They are often used in the Oil and Gas sector. </td>
+  </tr>
+  <tr>
+    <td>Examples</td>
+    <td>BlueROV, Boxfish, DeepTrekker,<br>Fusion, Ocean Modules V4 S300, OpenROV, Seabotix LBV300, Trident, VideoRay Pro4</td>
+    <td>Ocean Modules V8 M500,<br>Pollox, Phantom, Saab Seaeye Falcon (DR)/Cougar XT </td>
+    <td>Argus Mariner XL/Worker, Hercules; Holland, Isis; Jason 2; Kiel6000; Ocean Modules V8 L3000, SuBastian</td>
+  </tr>
+  <tr>
+    <td>Scale of operation^</td>
+    <td>Fine (&lt;20m) - Meso (200m - 1km)</td>
+    <td>Meso - Macro (&gt;1km)</td>
+    <td>Meso - Macro</td>
+  </tr>
+  <tr>
+    <td>Max. operational conditions</td>
+    <td>Depth: &lt;100m<br>Sea state: &lt;2m Current: &lt;1.5kt</td>
+    <td>Depth: 0 - 300m#,<br>Sea state: &lt;3m <br>Current: &lt;3kt</td>
+    <td>Depth: &gt;300m, <br>Sea state: &lt;4m <br>Current: &lt;4kt</td>
+  </tr>
+  <tr>
+    <td>Deployment type</td>
+    <td>Manual</td>
+    <td>Manual (&lt;300m depth) or vessel A Frame/crane and winch or Launch And Recovery System (LARS) package. </td>
+    <td>LARS package or<br>vessel A-frame/crane (for shallow deployment). A moonpool is a further option.</td>
+  </tr>
+  <tr>
+    <td>Tether management</td>
+    <td>Free swimming - tether connected to ROV. Clump weight recommended in deep/high current deployments.</td>
+    <td>Single body on main umbilical (live boating) or Tether Management System (TMS).</td>
+    <td>Single body on main umbilical (live boating) or TMS.</td>
+  </tr>
+  <tr>
+    <td>Approx. survey cost per day*</td>
+    <td>AUD 2,000 - 10,000</td>
+    <td>AUD 5,000 - 40,000</td>
+    <td>AUD 50,000 - 120,000</td>
+  </tr>
+  <tr>
+    <td>Approx. purchase cost^^</td>
+    <td>AUD 10,000-<br>250,000</td>
+    <td>AUD 200,000-<br>1,000,000</td>
+    <td>AUD 1,000,000-<br>6,000,000+</td>
+  </tr>
+  <tr>
+    <td>Vessel requirements</td>
+    <td>Fixed platform (jetty/pontoon/oil/gas platform), small vessel (&lt;10m) (with or without power supply) or other small vessel.</td>
+    <td>Shallow draught vessels suitable for inshore waters (10-30m), for extended offshore surveys larger (~&gt;30m) vessels will be used.</td>
+    <td>Large vessel (~&gt;50m) with Dynamic Positioning (DP), deck capacity for container storage and LARS.</td>
+  </tr>
+</tbody>
+</table>
+
+
 ^ Ability to navigate across distance
 
 <sup>#</sup> Deep Rated vehicles are available for >300m but have limited mobility at these depths.
