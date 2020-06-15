@@ -33,16 +33,13 @@ Table 10.2. Summary of ROV classes and considerations associated with each when 
    <td><strong>Class I:</strong>
 <p>
 <strong>Observation</strong>
-   </td>
    <td><strong>Class II:</strong>
 <p>
 <strong>Observation (with payload option)</strong>
-   </td>
+
    <td><strong>Class III:</strong>
 <p>
 <strong>Work</strong>
-   </td>
-  </tr>
   <tr>
    <td>
 
