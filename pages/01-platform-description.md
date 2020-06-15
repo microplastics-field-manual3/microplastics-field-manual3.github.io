@@ -1,0 +1,18 @@
+---
+layout: home
+permalink: /platform-description
+title: "Platform Description"
+excerpt: "<br>"
+image:
+  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+toc: true
+---
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
+
+Remotely Operated Vehicles (ROVs) are piloted, tethered unmanned submersibles typically controlled from a vessel (sometimes from other fixed structures such as oil and gas platform jackets) via a reinforced umbilical cable as the main tethering device. The tether historically provided electrical power and also allowed the real-time transfer of data between the vessel and ROV to be transmitted. With advancements in battery technology, smaller ROVs can now be powered by onboard battery systems, which reduces the diameter of the tether, decreasing drag and improving ROV maneuverability. The motion of ROVs are controlled by multiple thrusters that allow movement and manipulation in all directions and speeds up to 3 knots. Onboard cameras and sensors provide data and visual information that is relayed back to the surface personnel to observe the seabed or other structures and control the ROV. Onboard sensors typically provide feedback on water depth, temperature, currents, orientation and location of the ROV. The attachment of manipulator arms can also allow for specimens and samples to be collected (including on in the water column). 
+
+ROVs were originally designed in the mid-1980s to complement manned scientific submersibles. With the increase in technology since, ROVs have gained acceptance because of their distinct advantages over manned submersibles in many areas, notably reduced risk to pilots and researchers. For instance, they can remain on the seafloor for extended periods efficiently performing large surveys, running extended time series observations, and conducting multidisciplinary operations (Shepherd 2001, Macreadie et al. 2018, Sward et al. 2019). A large volume of data is transmitted to the surface, via multiple channels including real time video, sonar, CTD (conductivity–temperature–depth) data, real time location and other information. 
+
+ROVs are available in a range of sizes and configurations from smaller observation-class vehicles (~3-20 kg for mini and ~30-120 kg for regular-sized models) to larger work-class systems (100-1,500 kg for light- and up to 5,000 kg for heavy-duty models), which vary in power, depth rating, accessibility, and additional payload capabilities (Baker et al. 2012, Capocci et al. 2017, Huvenne et al. 2018). As a result of the versatility, ROVs are increasingly being used for deep-water surveys, with published examples of using ROVs for physical sampling via manipulator and grabber arms, scanning sonars and high-definition cameras to provide researchers with still or video images of the physical environment (Shepherd 2001, Leckie et al. 2015, Robert et al. 2017, Macreadie et al. 2018) and associated sessile mega-benthic taxa (Salvati et al. 2010; Thresher et al. 2014; Lacharité et al. 2015; Cánovas-Molina et al. 2016; Price et al. 2019; López-Garrido et al. 2020) as well as mobile organisms (such as fish; Karpov et al. 2006, Pradella et al. 2014, McLean et al. 2017, Thomson et al. 2018). With advances in technology, a wider range of ROV models are becoming available, including many low-cost systems, resulting in a greater uptake by researchers. 
+
+For further information on the advantages and disadvantages of ROVs compared to other benthic imagery and sampling platforms, refer to _Comparative assessment of seafloor sampling platforms _Przeslawski et al. 2018 and review by Sward et al. 2019).
