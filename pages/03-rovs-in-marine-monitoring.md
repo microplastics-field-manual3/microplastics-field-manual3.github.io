@@ -83,7 +83,7 @@ Pollox, Phantom, Saab Seaeye Falcon (DR)/Cougar XT
    </td>
   </tr>
   <tr>
-   <td><strong>Scale of operation^</strong>
+   <td><strong>Scale of operation <sup>^</sup></strong>
    </td>
    <td>Fine (&lt;20m) - Meso (200m - 1km)
    </td>
@@ -135,7 +135,7 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
    </td>
   </tr>
   <tr>
-   <td><strong>Approx. survey cost per day*</strong>
+   <td><strong>Approx. survey cost per day<sup>*</sup></strong>
    </td>
    <td>AUD 2,000 - 10,000
    </td>
@@ -145,7 +145,7 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
    </td>
   </tr>
   <tr>
-   <td><strong>Approx. purchase cost^^</strong>
+   <td><strong>Approx. purchase cost<sup>^^</sup></strong>
    </td>
    <td>AUD 10,000-
 <p>
@@ -201,7 +201,7 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
     <td>Argus Mariner XL/Worker, Hercules; Holland, Isis; Jason 2; Kiel6000; Ocean Modules V8 L3000, SuBastian</td>
   </tr>
   <tr>
-    <td>Scale of operation^</td>
+    <td>Scale of operation<sup>^</sup></td>
     <td>Fine (&lt;20m) - Meso (200m - 1km)</td>
     <td>Meso - Macro (&gt;1km)</td>
     <td>Meso - Macro</td>
@@ -209,7 +209,7 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
   <tr>
     <td>Max. operational conditions</td>
     <td>Depth: &lt;100m<br>Sea state: &lt;2m Current: &lt;1.5kt</td>
-    <td>Depth: 0 - 300m#,<br>Sea state: &lt;3m <br>Current: &lt;3kt</td>
+    <td>Depth: 0 - 300m <sup>#</sup>, <br>Sea state: &lt;3m <br>Current: &lt;3kt</td>
     <td>Depth: &gt;300m, <br>Sea state: &lt;4m <br>Current: &lt;4kt</td>
   </tr>
   <tr>
@@ -225,13 +225,13 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
     <td>Single body on main umbilical (live boating) or TMS.</td>
   </tr>
   <tr>
-    <td>Approx. survey cost per day*</td>
+    <td>Approx. survey cost per day<sup>*</sup></td>
     <td>AUD 2,000 - 10,000</td>
     <td>AUD 5,000 - 40,000</td>
     <td>AUD 50,000 - 120,000</td>
   </tr>
   <tr>
-    <td>Approx. purchase cost^^</td>
+    <td>Approx. purchase cost<sup>^^</sup></td>
     <td>AUD 10,000-<br>250,000</td>
     <td>AUD 200,000-<br>1,000,000</td>
     <td>AUD 1,000,000-<br>6,000,000+</td>
@@ -246,10 +246,10 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
 </table>
 
 
-^ Ability to navigate across distance
+<sup>^</sup> Ability to navigate across distance
 
 <sup>#</sup> Deep Rated vehicles are available for >300m but have limited mobility at these depths.
 
-* Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.
+<sup>*</sup> Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.
 
-^^ Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.
+<sup>^^</sup> Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.
