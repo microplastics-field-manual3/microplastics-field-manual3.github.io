@@ -182,7 +182,7 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
     <th>Class III:<br>Work</th>
   </tr>
   <tr>
-    <td><img src="https://lh6.googleusercontent.com/wtdNv41tQLOxPelA-EowTqwgNtoqKBKkf8fIgZDK3PD9DnBQ9w3n0Odpr2Hce5nHx8yKCjn6ukJ4mfM7U6TDAeHK83CAanwQ3AKHbhd6CgU8An07c_rFw3C4qJNt02aGk2sz9vY4" width="112" height="150"></td>
+    <td><img src="images/figures/image2.png" width="100%" alt="alt_text" title="image_tooltip"></td>
     <td><img src="https://lh3.googleusercontent.com/sieEPR5J_SJJVnbSUGsIgW3JYzcPGyT4lTDZubMnVwRjv1hkebwjSlOCc-BSgn-PDtV1lmd9KxHsxX1V9lVvDcHrXR8gIkGCuRKTKwh2MTiA9TQFVCE3zMDrVoKQOZh9-DMkw6LS" width="160" height="99"></td>
     <td><img src="https://lh3.googleusercontent.com/d-viOsqq0KoadoEPSAcwkihLYDekSbVOTxJr5vIeapfODFu3IB54Jq6XVOJGviqMMYkXxSp-3zGuKd8OIrtDc7C3PMzhAB2M9dRKe-IWihUGa67CYxt2wGo3VWoZCXsb8FrCvFic" width="152" height="101"></td>
   </tr>
