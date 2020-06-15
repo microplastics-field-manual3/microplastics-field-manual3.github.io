@@ -43,18 +43,18 @@ Table 10.2. Summary of ROV classes and considerations associated with each when 
   <tr>
    <td>
 
-<img src="images/figures/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image2.png" width="100%" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
     
 
-<img src="images/figures/image3.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image3.png" width="100%" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
 
-<img src="images/figures/image4.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/figures/image4.jpg" width="100%" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
