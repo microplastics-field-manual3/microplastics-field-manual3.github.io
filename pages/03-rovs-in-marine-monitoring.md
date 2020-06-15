@@ -246,10 +246,10 @@ vessel A-frame/crane (for shallow deployment). A moonpool is a further option.
 </table>
 
 
-<sup>^</sup> Ability to navigate across distance
+<sup>^</sup> Ability to navigate across distance<br>
 
-<sup>#</sup> Deep Rated vehicles are available for >300m but have limited mobility at these depths.
+<sup>#</sup> Deep Rated vehicles are available for >300m but have limited mobility at these depths.<br>
 
-<sup>*</sup> Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.
+<sup>*</sup> Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.<br>
 
-<sup>^^</sup> Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.
+<sup>^^</sup> Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.<br>
