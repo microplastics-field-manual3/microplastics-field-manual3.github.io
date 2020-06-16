@@ -2,9 +2,10 @@
 layout: home
 permalink: /field-manual-maintenance
 title: "Field Manual Maintenance"
-excerpt: ""
+excerpt: "<br>"
 image:
-  feature: /banners/09_banner.jpg
+  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+layout: home
 ---
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual will be updated in 2018 as Version 2. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 2 will also detail subsequent version control and maintenance.
 
