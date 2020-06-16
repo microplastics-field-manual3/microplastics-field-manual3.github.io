@@ -7,7 +7,6 @@ image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
 ---
 
-
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 At the time of writing this manual, there is currently no support for future versions of this manual. However, in accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, if such support arises, this manual will be updated in the future as Version 3. Updates will reflect user feedback and new developments (e.g. data discoverability and accessibility). Version 3 will also detail subsequent version control and maintenance. 
