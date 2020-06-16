@@ -3,7 +3,7 @@ permalink: /field-manual-maintenance
 title: "Field Manual Maintenance"
 excerpt: "<br>"
 image:
-  feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
+  feature: /banner.jpg
 layout: home
 
 ---
@@ -57,6 +57,3 @@ At the time of writing this manual, there is currently no support for future ver
    </td>
   </tr>
 </table>
-
-
- \
