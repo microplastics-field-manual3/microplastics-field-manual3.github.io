@@ -10,7 +10,7 @@ page.button1.external_url:
   caption: NESP
 ---
 
-[Jacquomo Monk](mailto:jacquomo.monk@utas.edu.au), Neville Barrett, Todd Bond, Ashley Fowler, Dianne McLean, Julian Partridge, Nicholas Perkins, Rachel Przeslawski, Paul G Thomson, Joel Williams
+[Jacquomo Monk](mailto:jacquomo.monk@utas.edu.au), Neville Barrett, Todd Bond, Ashley Fowler, Dianne McLean, Julian Partridge, Nicholas Perkins, Rachel Przeslawski, Paul G Thomson & Joel Williams
 
 <img src="images/rov.png" width="100%">
 
