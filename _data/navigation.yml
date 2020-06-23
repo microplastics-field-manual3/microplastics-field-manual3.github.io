@@ -1,7 +1,7 @@
 # Site navigation links
-- title: "Download field manual"
+- title: "Download Field Manual"
   url: https://rov-field-manual.github.io/files/Chapter%2010_Remotely%20Operated%20Vehicles%20Field%20Manual%20V2.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /5x8/download_5x8.jpg
 - title: "Platform Description"
   url: https://rov-field-manual.github.io/platform-description
@@ -9,27 +9,27 @@
   image: /5x8/platform-description_teaser.jpg
 - title: "Scope"
   url: https://rov-field-manual.github.io/scope
-  excerpt: "Scope for the ROV field manual"
+  excerpt: ""
   image: /5x8/scope_teaser.jpg
 - title: "ROVs in Marine Monitoring"
   url: https://rov-field-manual.github.io/rovs-in-marine-monitoring
   excerpt: ""
   image: /5x8/marine-monitoring_teaser.jpg
-- title: "Pre-Survey Preparations"
+- title: "Pre-survey Preparations"
   url: https://rov-field-manual.github.io/pre-survey-preparations
   excerpt: ""
   image: /5x8/presurvey-preparations_teaser.jpg
 - title: "Field Procedures"
   url: https://rov-field-manual.github.io/field-procedures
-  excerpt: "Onboard sample acquisition and data processing and storage"
+  excerpt: ""
   image: /5x8/field-procedures_teaser.jpg
-- title: "Post-Survey Procedures"
+- title: "Post-survey Procedures"
   url: https://rov-field-manual.github.io/post-survey-procedures
-  excerpt: "Processing and annotation of video footage, processing and annotation of downward facing still imagery, data curation and quality control, data release and analysis"
+  excerpt: ""
   image: /5x8/postsurvey_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://rov-field-manual.github.io/field-manual-maintenance
-  excerpt: "Updates and developments"
+  excerpt: ""
   image: /5x8/field-manual-maintenance_teaser.jpg
 - title: "Acknowledgements"
   url: https://rov-field-manual.github.io/acknowledgements
@@ -37,6 +37,6 @@
   image: /5x8/acknowledgements_teaser.jpg
 - title: "References"
   url: https://rov-field-manual.github.io/references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /5x8/references_teaser.jpg
 

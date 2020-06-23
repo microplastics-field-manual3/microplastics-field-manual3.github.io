@@ -1,13 +1,10 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: "Remotely Operated Vehicles"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
-page.button1.external_url:
-  url: https://www.nespmarine.edu.au/
-  caption: NESP
 ---
 
 <div align="center"><p style="font-size:20px;"><a href="mailto:jacquomo.monk@utas.edu.au">Jacquomo Monk</a>, Neville Barrett, Todd Bond, Ashley Fowler, Dianne McLean, Julian Partridge, Nicholas Perkins, Rachel Przeslawski, Paul G Thomson & Joel Williams</p></div><br>
