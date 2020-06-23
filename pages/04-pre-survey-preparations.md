@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /pre-survey-preparations
-title: "Pre-Survey Preparations"
+title: "Pre-survey Preparations"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg

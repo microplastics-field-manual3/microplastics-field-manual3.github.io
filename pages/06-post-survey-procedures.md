@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /post-survey-procedures
-title: "Post-Survey Procedures"
+title: "Post-survey Procedures"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
