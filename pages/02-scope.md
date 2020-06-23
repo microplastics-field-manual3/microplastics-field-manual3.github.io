@@ -15,12 +15,15 @@ Table 10.1. Additional uses of ROVs in monitoring the marine environment that ar
 
 
 <table>
+<thead>
   <tr>
-   <td>Payload
+   <td><strong>Payload</strong>
    </td>
-   <td>Description
+   <td><strong>Description</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>CTD
    </td>
@@ -87,5 +90,6 @@ Table 10.1. Additional uses of ROVs in monitoring the marine environment that ar
    <td><em>In situ</em> sampling of sessile and mobile fauna, including pelagic and demersal fish and benthic invertebrates
    </td>
   </tr>
+</tbody>
 </table>
 

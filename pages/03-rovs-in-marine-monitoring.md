@@ -21,9 +21,9 @@ A key advantage that ROVs have in a monitoring context is their ability to be dy
 ![alt_text](images/figures/image1.jpg "image_tooltip")
 
 
-Figure 10.1. Sample images showing the tradeoffs for different ROVs: [left]: sessile invertebrates from Hunter Marine Park from a BlueRobotics BlueROV (with a heavy kit upgrade) fitted with stereo GoPro HERO7 Black cameras, [middle] limestone outcrops along a canyon slope in the Gascoyne Marine Park from the ROV SuBastien’s situational camera, and  [right] brittlestars entwined around a black coral from the ROV SuBastien’s 4K camera.
+**Figure 10.1:** Sample images showing the tradeoffs for different ROVs: [left]: sessile invertebrates from Hunter Marine Park from a BlueRobotics BlueROV (with a heavy kit upgrade) fitted with stereo GoPro HERO7 Black cameras, [middle] limestone outcrops along a canyon slope in the Gascoyne Marine Park from the ROV SuBastien’s situational camera, and  [right] brittlestars entwined around a black coral from the ROV SuBastien’s 4K camera.
 
-Table 10.2. Summary of ROV classes and considerations associated with each when used for monitoring Australia’s marine estate (table modified from JNCC, 2018).  
+**Table 10.2:** Summary of ROV classes and considerations associated with each when used for monitoring Australia’s marine estate (table modified from JNCC, 2018).  
 
 
 <table>
