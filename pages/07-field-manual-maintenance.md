@@ -47,12 +47,4 @@ At the time of writing this manual, there is currently no support for future ver
    <td>
    </td>
   </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
 </table>
