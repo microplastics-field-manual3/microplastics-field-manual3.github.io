@@ -15,14 +15,17 @@ At the time of writing this manual, there is currently no support for future ver
 
 
 <table>
+<thead>
   <tr>
-   <td>Version Number
+   <td><strong>Version Number</strong>
    </td>
-   <td>Description
+   <td><strong>Description</strong>
    </td>
-   <td>Date
+   <td><strong>Date</strong>
    </td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>0
    </td>
@@ -47,4 +50,5 @@ At the time of writing this manual, there is currently no support for future ver
    <td>
    </td>
   </tr>
+  </tbody>
 </table>
