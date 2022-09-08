@@ -11,7 +11,7 @@ image:
 <img src="images/rov.png" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Monk J, Barrett N, Bond T, Fowler A, McLean D, Partridge J, Perkins N, Przeslawski R, Thomson P.G, Williams J. 2020. Field manual for imagery based surveys using remotely operated vehicles (ROVs). In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</em>. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP)..
+<strong>Chapter citation:</strong><br>Monk J, Barrett N, Bond T, Fowler A, McLean D, Partridge J, Perkins N, Przeslawski R, Thomson P.G, Williams J. 2020. Field manual for imagery based surveys using remotely operated vehicles (ROVs). In <em>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</em>. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
 
 | Chapter Contents                                                                                                           |
