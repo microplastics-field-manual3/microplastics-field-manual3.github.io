@@ -23,7 +23,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   
-google_analytics: 
 analytics:
   provider               : "google-gtag"
   google:
