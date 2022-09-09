@@ -22,7 +22,13 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-google_analytics: G-0Y1P7291P5
+  
+google_analytics: 
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-0Y1P7291P5"
+    anonymize_ip         : # true, false (default)
 
 # Site owner
 owner:
