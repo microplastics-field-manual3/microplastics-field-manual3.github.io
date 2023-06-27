@@ -23,11 +23,12 @@ gems:
   - jekyll-gist
   - jekyll-feed
   
+# Analytics
 analytics:
   provider               : "google-gtag"
   google:
     measurement_id          : "G-0Y1P7291P5"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false
 
 # Site owner
 owner:
