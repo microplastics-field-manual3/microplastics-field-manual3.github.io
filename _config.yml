@@ -27,7 +27,7 @@ gems:
 analytics:
   provider               : "google-gtag"
   google:
-    measurement_id          : "G-0Y1P7291P5"
+    measurement_id          : "G-N2PF1KWP6M"
     anonymize_ip         : false
 
 # Site owner
