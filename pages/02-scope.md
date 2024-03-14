@@ -14,82 +14,68 @@ The primary aim of this field manual is to establish a consistent sampling proto
 Table 10.1. Additional uses of ROVs in monitoring the marine environment that are not covered in this manual (modified from McLean et al. 2020).
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-3mv5{background-color:#629ACD;color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-q06y{background-color:#CFE2F3;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-msii{background-color:#CFE2F3;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-   <td><strong>Payload</strong>
-   </td>
-   <td><strong>Description</strong>
-   </td>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Payload</span></th>
+    <th class="tg-3mv5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Description</span></th>
   </tr>
-  </thead>
-  <tbody>
+</thead>
+<tbody>
   <tr>
-   <td>CTD
-   </td>
-   <td>Seawater temperature and salinity depth profiles
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">CTD</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Seawater temperature and salinity depth profiles</span></td>
   </tr>
   <tr>
-   <td>Bio-optical sensors 
-   </td>
-   <td>Fluorescence and backscatter (turbidity) sensor
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bio-optical sensors </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fluorescence and backscatter (turbidity) sensor</span></td>
   </tr>
   <tr>
-   <td>Light meter
-   </td>
-   <td>Upwelling and downwelling light, photosynthetically active radiation (PAR)
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Light meter</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Upwelling and downwelling light, photosynthetically active radiation (PAR)</span></td>
   </tr>
   <tr>
-   <td>Dissolved oxygen sensor
-   </td>
-   <td>Dissolved oxygen concentrations
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dissolved oxygen sensor</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dissolved oxygen concentrations</span></td>
   </tr>
   <tr>
-   <td>pH sensor
-   </td>
-   <td>Water column pH
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">pH sensor</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Water column pH</span></td>
   </tr>
   <tr>
-   <td>Water sampler
-   </td>
-   <td>Water column samples for microbes, nutrients, pollutants, chlorophyll using bottle samplers
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Water sampler</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Water column samples for microbes, nutrients, pollutants, chlorophyll using bottle samplers</span></td>
   </tr>
   <tr>
-   <td>Acoustic telemetry, Hydrophones/passive acoustics
-   </td>
-   <td>Detection of tagged and untagged animals, migration patterns, connectivity 
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Acoustic telemetry, Hydrophones/passive acoustics</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Detection of tagged and untagged animals, migration patterns, connectivity </span></td>
   </tr>
   <tr>
-   <td>Scanning/Imaging sonar
-   </td>
-   <td>Bathymetry, structural complexity
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Scanning/Imaging sonar</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bathymetry, structural complexity</span></td>
   </tr>
   <tr>
-   <td>Sediment Corers/grabs
-   </td>
-   <td>Sedimentology or biogeochemistry e.g. particle size, sediment chemistry
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sediment Corers/grabs</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sedimentology or biogeochemistry e.g. particle size, sediment chemistry</span></td>
   </tr>
   <tr>
-   <td>Faunal traps
-   </td>
-   <td>Deployment and retrieval of baited traps for sampling of mobile fauna, including fish and invertebrates
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faunal traps</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Deployment and retrieval of baited traps for sampling of mobile fauna, including fish and invertebrates</span></td>
   </tr>
   <tr>
-   <td>Faunal sampling
-   </td>
-   <td><em>In situ</em> sampling of sessile and mobile fauna, including pelagic and demersal fish and benthic invertebrates
-   </td>
+    <td class="tg-q06y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faunal sampling</span></td>
+    <td class="tg-msii"><span style="font-weight:400;font-style:italic;text-decoration:none;color:#000;background-color:transparent">In situ</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> sampling of sessile and mobile fauna, including pelagic and demersal fish and benthic invertebrates</span></td>
   </tr>
 </tbody>
 </table>
-
