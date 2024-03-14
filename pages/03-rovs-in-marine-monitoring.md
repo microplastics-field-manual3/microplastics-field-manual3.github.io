@@ -26,83 +26,90 @@ A key advantage that ROVs have in a monitoring context is their ability to be dy
 **Table 10.2:** Summary of ROV classes and considerations associated with each when used for monitoring Australia’s marine estate (table modified from JNCC, 2018).  
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-a5br{background-color:#CFE2F3;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1198px">
+<colgroup>
+<col style="width: 205px">
+<col style="width: 331px">
+<col style="width: 331px">
+<col style="width: 331px">
+</colgroup>
 <thead>
   <tr>
-    <th rowspan="2"> ROV class</th>
-    <th>Class I:<br>Observation</th>
-    <th>Class II:<br>Observation (with payload option)</th>
-    <th>Class III:<br>Work</th>
+    <th class="tg-aoc0" rowspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent"> ROV class</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Class I:</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Observation</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Class II:</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Observation (with payload option)</span></th>
+    <th class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Class III:</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Work</span></th>
   </tr>
   <tr>
-    <td><img src="images/figures/image2.png" width="100%" alt="alt_text" title="image_tooltip"></td>
-    <td><img src="images/figures/image3.png" width="100%" alt="alt_text" title="image_tooltip"></td>
-    <td><img src="images/figures/image4.jpg" width="100%" alt="alt_text" title="image_tooltip"></td>
+    <th class="tg-a5br"><img src="images/figures/image2.png" width="100%" alt="alt_text" title="image_tooltip"></th>
+    <th class="tg-a5br"><img src="images/figures/image3.png" width="100%" alt="alt_text" title="image_tooltip"></th>
+    <th class="tg-a5br"><img src="images/figures/image4.jpg" width="100%" alt="alt_text" title="image_tooltip"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Definition and capability</td>
-    <td>Typically &lt; 40kg in weight these vehicles are primarily intended for observation only. Fitted with inbuilt camera and lights, may be able to handle one additional sensor (such as USBL), simple grabber claws, as well as an additional stereo-video camera.</td>
-    <td>Larger vehicles than Class I, weighing ~100-150kg, are capable of basic physical sampling and observations. Capable of carrying multiple cameras and sensors as well as simple gabber claws.</td>
-    <td>Weighing &lt;~5000kg, these vehicles have a broad carrying capability and operational conditions (e.g. depth and currents). Usually used in deeper waters (i.e. off continental shelf) these are the most complex and versatile of ROVs used. They are often used in the Oil and Gas sector. </td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Definition and capability</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Typically &lt; 40kg in weight these vehicles are primarily intended for observation only. Fitted with inbuilt camera and lights, may be able to handle one additional sensor (such as USBL), simple grabber claws, as well as an additional stereo-video camera.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Larger vehicles than Class I, weighing ~100-150kg, are capable of basic physical sampling and observations. Capable of carrying multiple cameras and sensors as well as simple gabber claws.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Weighing &lt;~5000kg, these vehicles have a broad carrying capability and operational conditions (e.g. depth and currents). Usually used in deeper waters (i.e. off continental shelf) these are the most complex and versatile of ROVs used. They are often used in the Oil and Gas sector. </span></td>
   </tr>
   <tr>
-    <td>Examples</td>
-    <td>BlueROV, Boxfish, DeepTrekker,<br>Fusion, Ocean Modules V4 S300, OpenROV, Seabotix LBV300, Trident, VideoRay Pro4</td>
-    <td>Ocean Modules V8 M500,<br>Pollox, Phantom, Saab Seaeye Falcon (DR)/Cougar XT </td>
-    <td>Argus Mariner XL/Worker, Hercules; Holland, Isis; Jason 2; Kiel6000; Ocean Modules V8 L3000, SuBastian</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Examples</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BlueROV, Boxfish, DeepTrekker,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fusion, Ocean Modules V4 S300, OpenROV, Seabotix LBV300, Trident, VideoRay Pro4</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ocean Modules V8 M500,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pollox, Phantom, Saab Seaeye Falcon (DR)/Cougar XT </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Argus Mariner XL/Worker, Hercules; Holland, Isis; Jason 2; Kiel6000; Ocean Modules V8 L3000, SuBastian</span></td>
   </tr>
   <tr>
-    <td>Scale of operation<sup>^</sup></td>
-    <td>Fine (&lt;20m) - Meso (200m - 1km)</td>
-    <td>Meso - Macro (&gt;1km)</td>
-    <td>Meso - Macro</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Scale of operation^</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fine (&lt;20m) - Meso (200m - 1km)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Meso - Macro (&gt;1km)</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Meso - Macro</span></td>
   </tr>
   <tr>
-    <td>Max. operational conditions</td>
-    <td>Depth: &lt;100m<br>Sea state: &lt;2m Current: &lt;1.5kt</td>
-    <td>Depth: 0 - 300m <sup>#</sup>, <br>Sea state: &lt;3m <br>Current: &lt;3kt</td>
-    <td>Depth: &gt;300m, <br>Sea state: &lt;4m <br>Current: &lt;4kt</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Max. operational conditions</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth: &lt;100m</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sea state: &lt;2m Current: &lt;1.5kt</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth: 0 - 300m</span>#<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sea state: &lt;3m </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Current: &lt;3kt</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth: &gt;300m, </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sea state: &lt;4m </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Current: &lt;4kt</span></td>
   </tr>
   <tr>
-    <td>Deployment type</td>
-    <td>Manual</td>
-    <td>Manual (&lt;300m depth) or vessel A Frame/crane and winch or Launch And Recovery System (LARS) package. </td>
-    <td>LARS package or<br>vessel A-frame/crane (for shallow deployment). A moonpool is a further option.</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Deployment type</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Manual</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Manual (&lt;300m depth) or vessel A Frame/crane and winch or Launch And Recovery System (LARS) package. </span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">LARS package or</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">vessel A-frame/crane (for shallow deployment). A moonpool is a further option.</span></td>
   </tr>
   <tr>
-    <td>Tether management</td>
-    <td>Free swimming - tether connected to ROV. Clump weight recommended in deep/high current deployments.</td>
-    <td>Single body on main umbilical (live boating) or Tether Management System (TMS).</td>
-    <td>Single body on main umbilical (live boating) or TMS.</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Tether management</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Free swimming - tether connected to ROV. Clump weight recommended in deep/high current deployments.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Single body on main umbilical (live boating) or Tether Management System (TMS).</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Single body on main umbilical (live boating) or TMS.</span></td>
   </tr>
   <tr>
-    <td>Approx. survey cost per day<sup>*</sup></td>
-    <td>AUD 2,000 - 10,000</td>
-    <td>AUD 5,000 - 40,000</td>
-    <td>AUD 50,000 - 120,000</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Approx. survey cost per day*</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 2,000 - 10,000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 5,000 - 40,000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 50,000 - 120,000</span></td>
   </tr>
   <tr>
-    <td>Approx. purchase cost<sup>^^</sup></td>
-    <td>AUD 10,000-<br>250,000</td>
-    <td>AUD 200,000-<br>1,000,000</td>
-    <td>AUD 1,000,000-<br>6,000,000+</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Approx. purchase cost^^</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 10,000-</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">250,000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 200,000-</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1,000,000</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AUD 1,000,000-</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6,000,000+</span></td>
   </tr>
   <tr>
-    <td>Vessel requirements</td>
-    <td>Fixed platform (jetty/pontoon/oil/gas platform), small vessel (&lt;10m) (with or without power supply) or other small vessel.</td>
-    <td>Shallow draught vessels suitable for inshore waters (10-30m), for extended offshore surveys larger (~&gt;30m) vessels will be used.</td>
-    <td>Large vessel (~&gt;50m) with Dynamic Positioning (DP), deck capacity for container storage and LARS.</td>
+    <td class="tg-aoc0"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Vessel requirements</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fixed platform (jetty/pontoon/oil/gas platform), small vessel (&lt;10m) (with or without power supply) or other small vessel.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Shallow draught vessels suitable for inshore waters (10-30m), for extended offshore surveys larger (~&gt;30m) vessels will be used.</span></td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Large vessel (~&gt;50m) with Dynamic Positioning (DP), deck capacity for container storage and LARS.</span></td>
   </tr>
 </tbody>
 </table>
-
-
-<sup>^</sup> Ability to navigate across distance<br>
-
-<sup>#</sup> Deep Rated vehicles are available for >300m but have limited mobility at these depths.<br>
-
-<sup>*</sup> Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.<br>
-
-<sup>^^</sup> Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.<br>
